@@ -1,0 +1,6 @@
+c:\users\vimubaa\documents\visual studio 2015\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\vimubaa\documents\visual studio 2015\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\vimubaa\documents\visual studio 2015\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\vimubaa\documents\visual studio 2015\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\vimubaa\documents\visual studio 2015\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\vimubaa\documents\visual studio 2015\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
